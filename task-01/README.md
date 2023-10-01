@@ -1,4 +1,4 @@
-#Terminal WIzard
+# Terminal WIzard
 Since it was the first time i was dealing with terminal commands, this task was surely not in my comfort zone. I feel like this was a great intro to the tasksets cuz it honts the nature of the upcoming tasks-ull have to do knowledge hunting a LOT.
 The codes ive used:
 cd:for rnavigating through the folders

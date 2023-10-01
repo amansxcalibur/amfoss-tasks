@@ -1,2 +1,2 @@
-#AK47 Weather Extension
+# AK47 Weather Extension
 I had fun doing this task, the javascript file was only the "hard" part i guess. i faced two major errors: one was the css file was not getting executed and the seecond one was London havvinf 290C along with mild rain(it was in kelvin scale). I had a bunch of tutorials help me with the initial phases cuz i didnt know stuff about API and extension creations but this was comparitively a smoother task.
