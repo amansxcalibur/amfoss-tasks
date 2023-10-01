@@ -1,0 +1,22 @@
+{
+    "name":"SOSS CLASSICS",
+    "version":"1.0",
+    "description":"A very simple weather extension for Chrome",
+    "manifest_version":3,
+    "permissions":["activeTab"],
+    "icons":{
+        "16":"Weather.16.png",
+        "48":"Weather.64.png",
+        "128":"Weather.128.png"
+    },
+    "action":{
+        "default_popup":"./popup.html",
+        "default_icon":"./Weather.128.png",
+    "theme":{
+        "images":{
+            "theme_frame":"./Goeshard.png"
+        }
+    }
+    }
+
+}

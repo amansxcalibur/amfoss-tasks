@@ -1,0 +1,35 @@
+.top-bar{
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 70px; 
+    background-color: rgba(0, 0, 0, 0.3); 
+    
+}
+
+body{
+    background-image: url("backdrop.png");
+    background-size: fill;
+    background-repeat: no-repeat;
+}
+.top-bar img.move{
+    position:  relative;
+    left: 85%;
+    padding: 10px;
+    top: 12%;
+
+}
+.imagine img{
+    position: fixed;
+    top: 73%;
+    left: 25%;
+    height: 10%;
+    width: 50%;
+}
+.explore{
+    position: fixed;
+    top: 86%;
+    left: 43%
+}
+
