@@ -9,20 +9,19 @@ The tasks where lengthy but we were not left clueless as to what we were suppose
 
  **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Introspection]|Introspection|Completed
 [Task-00]|Installing Ubuntu|Completed
-[Task-01]|Staring amFOSS repositories|Completed
-[Task-02]|TerminalHunt|Completed
-[Task-03]|Progragramming|Completd Partially
-[Task-04]|CineBot|Completed
-[Task-05]|Find The Bug|Completed
-[Task-06]|Flame Game|Completed
-[Task-07]|Go WASM|Completed
-[Task-08]|Internet Explorer|Completed
-[Task-09]|Krypto Scrapper|Completed
-[Task-10]|Completed
-[Task-11]|Figma Ninja|Unattempted
-[Task-12]|Bunny Heist|Unattempted
-[Task-13]|Footfall Counter|Unattempted
-[Task-14]|Bandit|Completed
+[Task-01]|Terminal Wizard|Completed
+[Task-02]|Lessgo Hugo|Completed
+[Task-03]|Hello, World!|Completd Partially
+[Task-04]|Competitive Programming |Completed
+[Task-05]|Hypertext Mockup Language|Completed
+[Task-06]|Cricket Vault|Completed
+[Task-07]|AK-47℃|Completed
+[Task-08]|Poke-Search!|Unattempted
+[Task-09]|GeoQuest|Unattempted
+[Task-10]|RuskOS|Unattempted
+[Task-11]|TinkerCAD|Unattempted
+[Task-12]|Godot|Unattempted
+[Task-13]|Vim|Completed
+[Task-14]|Bandit|Unattempted
 [Task-15]|Project Euler|Completed Partially
