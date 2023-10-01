@@ -1,0 +1,28 @@
+baseURL: "https://amansxcalibur.github.io/hugo-website"
+languageCode: en-us
+title: "Aman V.Shafeeq"
+theme: hugo-PaperMod
+publishDir: "public"
+params:
+    profileMode:
+        enabled: true
+        imageUrl: "" # optional
+        imageTitle: ""
+        imageWidth: 240 # custom size
+        imageHeight: 240 # custom size
+        Title: "Hello there👋"
+    
+
+menu:
+  main:
+  - name: Blogs
+    url: /blog/
+    weight: 20
+  - name: About
+    url: /about/
+    weight: 30
+  - name:
+    url: //
+    weight: 20
+publishDir: "docs" 
+
